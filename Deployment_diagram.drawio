@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2023-12-05T01:06:37.640Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="fx2l8FrCk96WxTNXEKTJ" version="22.1.2" type="device">
+  <diagram name="Page-1" id="Rpv0KVvFK_NyQT4wVe41">
+    <mxGraphModel dx="1070" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="370" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-2" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="WsliM_U_0jWPlTI4hlnP-1">
+          <mxGeometry x="110" y="140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WsliM_U_0jWPlTI4hlnP-2">
+          <mxGeometry width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-4" value="App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WsliM_U_0jWPlTI4hlnP-2">
+          <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-5" value="" style="group" vertex="1" connectable="0" parent="WsliM_U_0jWPlTI4hlnP-2">
+          <mxGeometry x="-90" y="-100" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-6" value="Client" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;perimeterSpacing=0;" vertex="1" parent="WsliM_U_0jWPlTI4hlnP-5">
+          <mxGeometry width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-7" value="VM" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;perimeterSpacing=0;" vertex="1" parent="WsliM_U_0jWPlTI4hlnP-5">
+          <mxGeometry width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-9" value="Virtual Machine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WsliM_U_0jWPlTI4hlnP-5">
+          <mxGeometry x="20" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-8" value="Cloud" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" vertex="1" parent="WsliM_U_0jWPlTI4hlnP-1">
+          <mxGeometry x="250" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-10" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon9;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WsliM_U_0jWPlTI4hlnP-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="575" as="sourcePoint" />
+            <mxPoint x="260" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
